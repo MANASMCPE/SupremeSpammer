@@ -798,9 +798,9 @@ local function backgroundTask4()
     end)
 
     -- Keep the text centered between the emoji borders.
-    local chatMessage = "🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌"
-        .. " \-------------- CelestiaL Spam User Detected --------------// "
-        .. "🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌"
+    local chatMessage = "🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌"
+        .. " \--------- CelestiaL Spam User Detected ----------/ "
+        .. "🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌🌌"
 
     bu(chatMessage)
     return chatMessage
